@@ -2,7 +2,7 @@
 ## Olá, eu sou Matheus souza | Front-end
 
 
-### Meu nome e Matheus Souza e eu sempre fui fascinado pela tecnologia, e decidi trilhar pelo mundo da programação. Atualmente sou estudante de Ciência da computação. <br><br>
+### Meu nome e Matheus Souza e eu sempre fui fascinado pela tecnologia, e decidi trilhar pelo mundo da programação. Atualmente sou estudante de Ciência da computação e estou estudando simultaneamente as tecnologias do front-end.<br>
 
 [![blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
