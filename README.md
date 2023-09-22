@@ -1,5 +1,5 @@
 
-## Olá, eu sou Matheus souza | Desenvolvedor Web
+## Olá, eu sou Matheus souza | Front-end
 
 
 ### Meu nome e Matheus Souza e eu sempre fui fascinado pela tecnologia, e decidi trilhar pelo mundo da programação. Atualmente sou estudante de Ciência da computação. <br><br>
